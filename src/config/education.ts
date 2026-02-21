@@ -17,7 +17,7 @@ export const educationList: Array<EducationItemType> = [
     end: '2027',
   },
   {
-    school: 'University of Chicago ',
+    school: 'Zhejiang University',
     major: 'Mechanical Engineering',
     logo: 'college',
     start: '2024',
